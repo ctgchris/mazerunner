@@ -1,5 +1,5 @@
 # Maze Runner (maze solver)
-![Home Page](./images/Homepage.png?)
+![Home Page](./images/maze-image.png?)
 
 ## Demo 
 
