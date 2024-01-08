@@ -1,4 +1,5 @@
 # Maze Runner (maze solver)
+![Home Page](./images/Homepage.png?)
 
 ## Demo 
 
