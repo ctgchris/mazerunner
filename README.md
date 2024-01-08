@@ -1,5 +1,9 @@
 # Maze Runner (maze solver)
 
+##Demo 
+
+https://youtu.be/YEMhajQu8uQ
+
 ## Introduction
 
 This project is designed to solve mazes by treating them as graphs, where each juncture (intersection) in the maze represents a vertex. The graph is constructed by adding edges between adjacent junctures that are not obstructed by walls. The maze always has a starting point in the upper left corner and an ending point in the lower right corner.
