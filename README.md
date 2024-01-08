@@ -1,6 +1,6 @@
 # Maze Runner (maze solver)
 
-##Demo 
+## Demo 
 
 [Demo Video](https://youtu.be/YEMhajQu8uQ)
 
